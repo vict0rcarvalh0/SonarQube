@@ -38,4 +38,11 @@ Por fim, a aba "Activity" mostra o histórico de análises e a aba "Code" exibe 
 <img src="https://github.com/vict0rcarvalh0/SonarQube/blob/main/assets/image12.png">
 
 ## Aprendizados
-### 
+### Uso do SonarQube
+Aprendi a subir um container docker do SonarQube e realizar uma análise em um projeto .Net. Além dos comandos, me aprofundei bastante na interface do Sonar e entendi como posso analisar cada Issue relatada no código fonte, ou seja, interpretar os resultados, para que o código fique mais limpo e otimizado.
+
+### Atualização do Java
+Confesso que uma boa parte do tempo que gastei foi atualizando o Java, para que fosse atualizado corretamente, aprendi como acessar as variáveis de ambiente no linux, em outras palavras, o "PATH", inserir e remover variáveis nele e utilizar de comandos de remoção e instalação do Java no sistema.
+
+### Débito Técnico
+Gostei bastante de ter encontrado um gráfico que exibe o débito técnico em um dos eixos, pois tinha noção teórica do conceito e consegui associar de forma mais tangível a sua relação com a qualidade do código.
