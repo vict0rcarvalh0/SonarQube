@@ -37,7 +37,18 @@ Por fim, a aba "Activity" mostra o histórico de análises e a aba "Code" exibe 
 
 <img src="https://github.com/vict0rcarvalh0/SonarQube/blob/main/assets/image12.png">
 
+## Tecnologias utilizadas
+- Docker
+- .NET
+- SonarQube
+
 ## Aprendizados
+### Análise Estática
+A análise estática é um método utilizado no desenvolvimento de software para examinar o código-fonte de um programa sem executá-lo. O objetivo é identificar potenciais problemas, como erros de sintaxe, vulnerabilidades de segurança, violações de padrões de codificação e outras questões que possam afetar a qualidade, desempenho ou segurança do software.
+
+Nesse sentido, o SonarQube é uma ferramenta de análise estática de código-fonte que ajuda os desenvolvedores a avaliar a qualidade do seu código. Ele analisa o código em busca de uma ampla gama de problemas, incluindo bugs, vulnerabilidades de segurança, códigos duplicados, complexidade excessiva, má prática de codificação e muito mais.
+
+
 ### Uso do SonarQube
 Aprendi a subir um container docker do SonarQube e realizar uma análise em um projeto .Net. Além dos comandos, me aprofundei bastante na interface do Sonar e entendi como posso analisar cada Issue relatada no código fonte, ou seja, interpretar os resultados, para que o código fique mais limpo e otimizado.
 
